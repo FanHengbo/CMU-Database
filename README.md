@@ -5,5 +5,5 @@ I learned CMU database course in September in 2022.
   - [x] Assignment: C++ Primer
 - [x] Lecture 3: Database Storage I
 - [x] Lecture 4: Database Storage II
-- [ ] Lecture 5: Storage Models & Compression
+- [x] Lecture 5: Storage Models & Compression
 
