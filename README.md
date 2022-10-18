@@ -6,4 +6,6 @@ I learned CMU database course in September in 2022.
 - [x] Lecture 3: Database Storage I
 - [x] Lecture 4: Database Storage II
 - [x] Lecture 5: Storage Models & Compression
-
+- [x] Lecture 6: Memory Management
+- [x] Lecture 7: Hash Tables
+- [] Lecture 8: Trees Indexes
