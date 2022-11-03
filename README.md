@@ -9,4 +9,5 @@ I learned CMU database course in September in 2022.
 - [x] Lecture 6: Memory Management
 - [x] Lecture 7: Hash Tables
 - [x] Lecture 8: Trees Indexes
-- [] Lecture 9:Index Concurrency Control
+- [x] Lecture 9: Index Concurrency Control
+- [x] Lecture 10: Sorting & Aggregations Algorithms
